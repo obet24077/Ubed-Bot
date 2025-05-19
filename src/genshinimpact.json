@@ -1,0 +1,348 @@
+{
+  "6283857182374@s.whatsapp.net": {
+    "rpg": {
+      "hero": "fighter",
+      "level": 1,
+      "xp": 15,
+      "gold": 60,
+      "hp": 120,
+      "maxHp": 120,
+      "atk": 15,
+      "def": 10,
+      "skills": [
+        "shield slam"
+      ],
+      "allSkills": [
+        "slash",
+        "powerstrike",
+        "berserk",
+        "whirlwind",
+        "shield slam",
+        "rage blow",
+        "dual strike",
+        "battle cry",
+        "piercing thrust",
+        "hammer smash",
+        "counterattack",
+        "blinding slash",
+        "fury spin",
+        "iron fist",
+        "war stomp",
+        "defensive stance",
+        "charge",
+        "vital strike",
+        "bloodlust",
+        "execution"
+      ],
+      "dungeonWins": 0,
+      "lastRegen": 1743924470836,
+      "timezone": "WIB",
+      "lastQuest": "2025-04-06",
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6281399172380@s.whatsapp.net": {
+    "rpg": {
+      "hero": "fighter",
+      "level": 1,
+      "xp": 30,
+      "gold": 120,
+      "hp": 120,
+      "maxHp": 120,
+      "atk": 15,
+      "def": 10,
+      "skills": [
+        "dual strike"
+      ],
+      "allSkills": [
+        "slash",
+        "powerstrike",
+        "berserk",
+        "whirlwind",
+        "shield slam",
+        "rage blow",
+        "dual strike",
+        "battle cry",
+        "piercing thrust",
+        "hammer smash",
+        "counterattack",
+        "blinding slash",
+        "fury spin",
+        "iron fist",
+        "war stomp",
+        "defensive stance",
+        "charge",
+        "vital strike",
+        "bloodlust",
+        "execution"
+      ],
+      "dungeonWins": 1,
+      "lastRegen": 1744357851247,
+      "timezone": "WIB",
+      "lastQuest": "2025-04-11",
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6285147777105@s.whatsapp.net": {
+    "rpg": {
+      "hero": "mage",
+      "level": 1,
+      "xp": 40,
+      "gold": 101,
+      "hp": 80,
+      "maxHp": 80,
+      "atk": 20,
+      "def": 5,
+      "skills": [
+        "iceblast"
+      ],
+      "allSkills": [
+        "fireball",
+        "iceblast",
+        "thunderstrike",
+        "meteor shower",
+        "frost nova",
+        "chain lightning",
+        "arcane burst",
+        "blizzard",
+        "flame wave",
+        "storm call",
+        "shadow bolt",
+        "lightning orb",
+        "ice shard",
+        "firestorm",
+        "thunder clap",
+        "mana shield",
+        "teleport",
+        "gravity well",
+        "energy drain",
+        "elemental fury"
+      ],
+      "dungeonWins": 2,
+      "lastRegen": 1745800812601,
+      "timezone": "WIB",
+      "lastQuest": null,
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6285230765748@s.whatsapp.net": {
+    "rpg": {
+      "hero": null,
+      "level": 1,
+      "xp": 0,
+      "gold": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 5,
+      "skills": [],
+      "allSkills": [],
+      "dungeonWins": 0,
+      "lastRegen": 1744942714046,
+      "timezone": null,
+      "lastQuest": null,
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6285343942124@s.whatsapp.net": {
+    "rpg": {
+      "hero": "fighter",
+      "level": 1,
+      "xp": 45,
+      "gold": 55,
+      "hp": 120,
+      "maxHp": 120,
+      "atk": 15,
+      "def": 10,
+      "skills": [
+        "bloodlust"
+      ],
+      "allSkills": [
+        "slash",
+        "powerstrike",
+        "berserk",
+        "whirlwind",
+        "shield slam",
+        "rage blow",
+        "dual strike",
+        "battle cry",
+        "piercing thrust",
+        "hammer smash",
+        "counterattack",
+        "blinding slash",
+        "fury spin",
+        "iron fist",
+        "war stomp",
+        "defensive stance",
+        "charge",
+        "vital strike",
+        "bloodlust",
+        "execution"
+      ],
+      "dungeonWins": 2,
+      "lastRegen": 1744961283073,
+      "timezone": "WIT",
+      "lastQuest": "2025-04-18",
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6287770119788@s.whatsapp.net": {
+    "rpg": {
+      "hero": "marksman",
+      "level": 2,
+      "xp": 55,
+      "gold": 81,
+      "hp": 110,
+      "maxHp": 110,
+      "atk": 30,
+      "def": 10,
+      "skills": [
+        "wind shot",
+        "barrage"
+      ],
+      "allSkills": [
+        "headshot",
+        "rapidfire",
+        "snipe",
+        "arrow rain",
+        "explosive shot",
+        "poison dart",
+        "multi-shot",
+        "piercing arrow",
+        "eagle eye",
+        "trap shot",
+        "shadow arrow",
+        "barrage",
+        "wind shot",
+        "critical aim",
+        "frost arrow",
+        "stealth shot",
+        "homing arrow",
+        "sniper stance",
+        "scatter shot",
+        "bullseye"
+      ],
+      "dungeonWins": 7,
+      "lastRegen": 1745841829568,
+      "timezone": "WIB",
+      "lastQuest": "2025-04-28",
+      "equippedWeapon": {
+        "name": "Steel Bow",
+        "atk": 7,
+        "def": 0
+      },
+      "inventory": []
+    }
+  },
+  "6283192738558@s.whatsapp.net": {
+    "rpg": {
+      "hero": "mage",
+      "level": 1,
+      "xp": 30,
+      "gold": 120,
+      "hp": 80,
+      "maxHp": 80,
+      "atk": 20,
+      "def": 5,
+      "skills": [
+        "thunderstrike"
+      ],
+      "allSkills": [
+        "fireball",
+        "iceblast",
+        "thunderstrike",
+        "meteor shower",
+        "frost nova",
+        "chain lightning",
+        "arcane burst",
+        "blizzard",
+        "flame wave",
+        "storm call",
+        "shadow bolt",
+        "lightning orb",
+        "ice shard",
+        "firestorm",
+        "thunder clap",
+        "mana shield",
+        "teleport",
+        "gravity well",
+        "energy drain",
+        "elemental fury"
+      ],
+      "dungeonWins": 2,
+      "lastRegen": 1745116606381,
+      "timezone": "WIT",
+      "lastQuest": null,
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "6282395612977@s.whatsapp.net": {
+    "rpg": {
+      "hero": "mage",
+      "level": 1,
+      "xp": 24,
+      "gold": 85,
+      "hp": 71,
+      "maxHp": 80,
+      "atk": 20,
+      "def": 5,
+      "skills": [
+        "chain lightning"
+      ],
+      "allSkills": [
+        "fireball",
+        "iceblast",
+        "thunderstrike",
+        "meteor shower",
+        "frost nova",
+        "chain lightning",
+        "arcane burst",
+        "blizzard",
+        "flame wave",
+        "storm call",
+        "shadow bolt",
+        "lightning orb",
+        "ice shard",
+        "firestorm",
+        "thunder clap",
+        "mana shield",
+        "teleport",
+        "gravity well",
+        "energy drain",
+        "elemental fury"
+      ],
+      "dungeonWins": 1,
+      "lastRegen": 1745842089320,
+      "timezone": "WIB",
+      "lastQuest": null,
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  },
+  "628174778224@s.whatsapp.net": {
+    "rpg": {
+      "hero": null,
+      "level": 1,
+      "xp": 0,
+      "gold": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 5,
+      "skills": [],
+      "allSkills": [],
+      "dungeonWins": 0,
+      "lastRegen": 1745650533626,
+      "timezone": null,
+      "lastQuest": null,
+      "equippedWeapon": null,
+      "inventory": []
+    }
+  }
+}
