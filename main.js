@@ -144,14 +144,12 @@ conn.isInit = false
 if (usePairingCode && !conn.authState.creds.registered) {
   if (useMobile) throw new Error('Cannot use pairing code with mobile API')
 
-  let phoneNumber = ''
-  do {
-    phoneNumber = await question(chalk.green('– Nomor Anda (dengan kode negara, contoh 62xxxx): '))
-  } while (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v)))
-
-  const deviceName = global.devicename || 'UBED2407'
+  let phoneNumber = '6282256578235' // <- ganti sesuai nomor kamu
+if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
+  throw new Error('Nomor tidak valid')
+}
+const deviceName = global.devicename || 'UBED2407'
 rl.close()
-
 phoneNumber = phoneNumber.replace(/\D/g, '')
 console.log(chalk.blue('⏳ Generating pairing code...'))
 
