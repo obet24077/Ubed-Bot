@@ -34,7 +34,8 @@ global.owner = [
   ['6281399172380', 'zahra', true],
 ]
 global.mods = ['']
-global.devicename = 'UBED2407' //buat pairing kode kamu bang
+global.devicename = 'UBEDUBED' //buat pairing kode kamu bang
+global.ubedkey = 'Ubed2407'
 global.owner2 = ['']
 global.prems = []
 global.nomorbot = '6285248500955'

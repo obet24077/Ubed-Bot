@@ -8,21 +8,21 @@
         "6287770119788@s.whatsapp.net"
       ],
       "resources": {
-        "wood": 1512,
-        "iron": 478,
-        "diamond": 924,
-        "rock": 908,
-        "coal": 486,
-        "string": 7578,
-        "apple": 32,
-        "berry": 19,
-        "meat": 48,
-        "bone": 5,
-        "feather": 26,
-        "skin": 0,
-        "fang": 33,
-        "mango": 0,
-        "banana": 0,
+        "wood": 9345,
+        "iron": 1688,
+        "diamond": 11481,
+        "rock": 15039,
+        "coal": 5965,
+        "string": 16662,
+        "apple": 86,
+        "berry": 77,
+        "meat": 401,
+        "bone": 373,
+        "feather": 55,
+        "skin": 181,
+        "fang": 367,
+        "mango": 1,
+        "banana": 1,
         "grape": 0
       },
       "artifacts": {
@@ -33,418 +33,418 @@
         "cloak": 0,
         "spear": 0
       },
-      "defenseLevel": 36,
-      "attackLevel": 36,
-      "exp": 10139,
-      "level": 11,
-      "aegis": 109,
-      "basics": 225,
+      "defenseLevel": 53,
+      "attackLevel": 54,
+      "exp": 7133,
+      "level": 16,
+      "aegis": 2650,
+      "basics": 1350,
       "activityLog": [
         {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747563176865
-        },
-        {
-          "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747563184251
-        },
-        {
           "message": "man melakukan berburu Rusa",
-          "timestamp": 1747563190709
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747568071388
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747568072778
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747568074768
+          "timestamp": 1748048660926
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747568081683
-        },
-        {
-          "message": "man melakukan berburu Serigala",
-          "timestamp": 1747568084134
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747569262355
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747569264456
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747569283943
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747570370929
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747570373211
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747570377048
+          "timestamp": 1748048667035
         },
         {
           "message": "man meng-upgrade attack clan.",
-          "timestamp": 1747571134715
+          "timestamp": 1748048713280
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747571766283
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747571771974
-        },
-        {
-          "message": "man melakukan nambang di Tambang Besi",
-          "timestamp": 1747571773814
-        },
-        {
-          "message": "man melakukan berburu Rusa",
-          "timestamp": 1747571778082
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747574266348
+          "timestamp": 1748055800592
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747574268589
+          "timestamp": 1748055803642
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747574271467
+          "timestamp": 1748055804170
         },
         {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747576173429
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747576182178
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747576184192
+          "message": "man melakukan berburu Ular",
+          "timestamp": 1748055806164
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747576190557
-        },
-        {
-          "message": "man melakukan berburu Rusa",
-          "timestamp": 1747576194406
+          "timestamp": 1748055809715
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747577729157
+          "timestamp": 1748060081217
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747577730431
+          "timestamp": 1748060082440
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747577731896
+          "timestamp": 1748060085792
         },
         {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747579525654
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747579535362
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747579538523
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747587835479
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747587837378
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747587840645
+          "message": "man melakukan nambang di Hutan",
+          "timestamp": 1748060089859
         },
         {
           "message": "man melakukan berburu Serigala",
-          "timestamp": 1747587844408
-        },
-        {
-          "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747587850532
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747601698150
+          "timestamp": 1748060093872
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747601704658
+          "timestamp": 1748063736556
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748063745960
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747601707343
+          "timestamp": 1748063748221
+        },
+        {
+          "message": "man melakukan berburu Pohon Apel",
+          "timestamp": 1748063751817
+        },
+        {
+          "message": "man melakukan nambang di Tambang Batu",
+          "timestamp": 1748063753755
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748065078455
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748065080094
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748065963978
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748065988121
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748065994432
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748078696594
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748078697334
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748078705932
+        },
+        {
+          "message": "man melakukan berburu Rusa",
+          "timestamp": 1748078706680
+        },
+        {
+          "message": "man melakukan nambang di Hutan",
+          "timestamp": 1748078707896
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748080075228
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748080077667
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748080080469
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748087191079
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748087192830
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748087193361
+        },
+        {
+          "message": "man melakukan berburu Serigala",
+          "timestamp": 1748087195308
+        },
+        {
+          "message": "man melakukan nambang di Hutan",
+          "timestamp": 1748087200292
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748088642907
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748088646290
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748088648418
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748090655626
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748090656865
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748090659282
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748091666381
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748091668676
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748092569290
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748092579910
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748092585152
         },
         {
           "message": "man melakukan berburu Kelinci",
-          "timestamp": 1747601710064
+          "timestamp": 1748092593563
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747601713986
+          "timestamp": 1748092595120
         },
         {
-          "message": "man melakukan berburu Beruang",
-          "timestamp": 1747627006012
+          "message": "man meng-upgrade attack clan.",
+          "timestamp": 1748092612068
         },
         {
-          "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747627007582
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747627012075
+          "message": "man meng-upgrade defense clan.",
+          "timestamp": 1748092614628
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747627014732
+          "timestamp": 1748095709101
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747627020969
+          "timestamp": 1748095709643
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747628092787
+          "timestamp": 1748097302255
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747628111010
+          "timestamp": 1748097307578
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747628136063
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747638737159
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747638739397
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747638744545
+          "timestamp": 1748097307961
         },
         {
           "message": "man melakukan berburu Rusa",
-          "timestamp": 1747638746755
+          "timestamp": 1748097314608
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747638751438
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747642403926
+          "timestamp": 1748097320092
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747642406386
+          "timestamp": 1748143862628
         },
         {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747642408907
+          "message": "man melakukan nebang.",
+          "timestamp": 1748143864769
+        },
+        {
+          "message": "man melakukan nambang di Hutan",
+          "timestamp": 1748143879163
         },
         {
           "message": "man melakukan berburu Serigala",
-          "timestamp": 1747642414032
+          "timestamp": 1748143882009
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748143885453
+        },
+        {
+          "message": "man menyelesaikan dungeon.",
+          "timestamp": 1748153969580
+        },
+        {
+          "message": "man melakukan nebang.",
+          "timestamp": 1748153970084
+        },
+        {
+          "message": "man melakukan jelajah.",
+          "timestamp": 1748153973189
+        },
+        {
+          "message": "man melakukan berburu Pohon Apel",
+          "timestamp": 1748153979899
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747642418794
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747644498696
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747644502177
+          "timestamp": 1748153985875
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747644504689
+          "timestamp": 1748158286091
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747650328769
-        },
-        {
-          "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747650330457
+          "timestamp": 1748158287486
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747650332638
+          "timestamp": 1748158294347
+        },
+        {
+          "message": "man melakukan berburu Pohon Apel",
+          "timestamp": 1748158297328
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747650336903
-        },
-        {
-          "message": "man melakukan berburu Kelinci",
-          "timestamp": 1747650339170
-        },
-        {
-          "message": "man meng-upgrade defense clan.",
-          "timestamp": 1747650984547
-        },
-        {
-          "message": "man beli 2000 rock seharga Cp. 10000",
-          "timestamp": 1747651008079
-        },
-        {
-          "message": "man meng-upgrade attack clan.",
-          "timestamp": 1747651009647
-        },
-        {
-          "message": "man beli 2000 rock seharga Cp. 10000",
-          "timestamp": 1747651026201
-        },
-        {
-          "message": "man meng-upgrade defense clan.",
-          "timestamp": 1747651030143
-        },
-        {
-          "message": "man beli 100 iron seharga Cp. 1000",
-          "timestamp": 1747651053540
-        },
-        {
-          "message": "man meng-upgrade attack clan.",
-          "timestamp": 1747651057714
+          "timestamp": 1748158301751
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747652115413
+          "timestamp": 1748159926408
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747652117891
+          "timestamp": 1748159926453
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747652120158
-        },
-        {
-          "message": "man ngirim request aliansi ke clan *Badut*.",
-          "timestamp": 1747653863276
-        },
-        {
-          "message": "man jual 335 meat seharga Cp. 3350",
-          "timestamp": 1747653997210
-        },
-        {
-          "message": "man jual 292 bone seharga Cp. 2336",
-          "timestamp": 1747654013009
-        },
-        {
-          "message": "man beli 1200 iron seharga Cp. 12000",
-          "timestamp": 1747654032405
-        },
-        {
-          "message": "man meng-upgrade defense clan.",
-          "timestamp": 1747654043556
-        },
-        {
-          "message": "man jual 227 skin seharga Cp. 1362",
-          "timestamp": 1747654066919
-        },
-        {
-          "message": "man jual 134 fang seharga Cp. 1608",
-          "timestamp": 1747654078027
+          "timestamp": 1748159926846
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747654087514
+          "timestamp": 1748167882705
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747654090130
+          "timestamp": 1748167884003
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747654092220
+          "timestamp": 1748167889167
         },
         {
-          "message": "man beli 1000 rock seharga Cp. 5000",
-          "timestamp": 1747654184559
-        },
-        {
-          "message": "man meng-upgrade attack clan.",
-          "timestamp": 1747654187950
-        },
-        {
-          "message": "man melakukan berburu Serigala",
-          "timestamp": 1747654695055
+          "message": "man melakukan berburu Babi",
+          "timestamp": 1748167890673
         },
         {
           "message": "man melakukan nambang di Hutan",
-          "timestamp": 1747654704162
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747655031226
+          "timestamp": 1748167896066
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747655038544
+          "timestamp": 1748169522395
         },
         {
           "message": "man melakukan jelajah.",
-          "timestamp": 1747655039748
-        },
-        {
-          "message": "man melakukan nebang.",
-          "timestamp": 1747655984855
+          "timestamp": 1748169523782
         },
         {
           "message": "man menyelesaikan dungeon.",
-          "timestamp": 1747656586630
-        },
-        {
-          "message": "man melakukan jelajah.",
-          "timestamp": 1747656591836
+          "timestamp": 1748171602450
         },
         {
           "message": "man melakukan nebang.",
-          "timestamp": 1747657242045
+          "timestamp": 1748171603629
+        },
+        {
+          "message": "namalu menyelesaikan dungeon.",
+          "timestamp": 1748178552772
+        },
+        {
+          "message": "namalu melakukan nebang.",
+          "timestamp": 1748178555009
+        },
+        {
+          "message": "namalu melakukan jelajah.",
+          "timestamp": 1748179233015
+        },
+        {
+          "message": "namalu menyelesaikan dungeon.",
+          "timestamp": 1748180105035
+        },
+        {
+          "message": "namalu melakukan nebang.",
+          "timestamp": 1748180107089
+        },
+        {
+          "message": "namalu melakukan berburu Serigala",
+          "timestamp": 1748180113538
+        },
+        {
+          "message": "namalu melakukan nambang di Hutan",
+          "timestamp": 1748180119217
+        },
+        {
+          "message": "namalu menyelesaikan dungeon.",
+          "timestamp": 1748183133602
+        },
+        {
+          "message": "namalu melakukan nebang.",
+          "timestamp": 1748183135374
+        },
+        {
+          "message": "namalu melakukan jelajah.",
+          "timestamp": 1748183138677
+        },
+        {
+          "message": "namalu menyelesaikan dungeon.",
+          "timestamp": 1748186788316
+        },
+        {
+          "message": "namalu melakukan nebang.",
+          "timestamp": 1748186788969
+        },
+        {
+          "message": "namalu melakukan jelajah.",
+          "timestamp": 1748186789689
+        },
+        {
+          "message": "namalu melakukan berburu Pohon Apel",
+          "timestamp": 1748186794402
+        },
+        {
+          "message": "namalu melakukan nambang di Tambang Besi",
+          "timestamp": 1748186798613
         }
       ],
       "settings": {
         "approval": true
       },
-      "bank": 4524,
+      "bank": 47820,
       "officers": [],
       "transferHistory": {},
       "alliances": [
@@ -459,23 +459,23 @@
       "season": 1,
       "seasonStart": 1744243200000,
       "memberCooldowns": {
-        "6287770119788@s.whatsapp.net": 1747656591833,
+        "6287770119788@s.whatsapp.net": 1748186789688,
         "6285926038983@s.whatsapp.net": 1746782598186
       },
       "memberCooldownsV2": {
-        "6287770119788@s.whatsapp.net": 1747657242042,
+        "6287770119788@s.whatsapp.net": 1748186788969,
         "6285926038983@s.whatsapp.net": 1746782632483
       },
       "dungeonCooldown": {
         "6287770119788@s.whatsapp.net": {
-          "lastCompleted": 1747656586627
+          "lastCompleted": 1748186788316
         },
         "6285926038983@s.whatsapp.net": {
           "lastCompleted": 1746782645200
         }
       },
       "isInWar": false,
-      "lastWar": 1747654185633,
+      "lastWar": 1748097646499,
       "profile": "https://files.catbox.moe/u7xbpp.jpg",
       "profileMessage": ".clan setprofile",
       "raidMonster": {
@@ -496,25 +496,25 @@
     },
     "f85be2": {
       "id": "f85be2",
-      "name": "pride of gold",
+      "name": "pride of lions",
       "owner": "6281399172380@s.whatsapp.net",
       "members": [
         "6281399172380@s.whatsapp.net"
       ],
       "resources": {
-        "wood": 3377,
-        "iron": 227,
-        "diamond": 14884,
-        "rock": 42504,
-        "coal": 13185,
-        "string": 4557,
-        "apple": 0,
-        "berry": 0,
-        "meat": 1,
-        "bone": 38,
-        "feather": 0,
-        "skin": 0,
-        "fang": 24,
+        "wood": 99896226,
+        "iron": 99865129,
+        "diamond": 99915395,
+        "rock": 99742015,
+        "coal": 99907656,
+        "string": 99875059,
+        "apple": 136,
+        "berry": 128,
+        "meat": 1115,
+        "bone": 1294,
+        "feather": 9,
+        "skin": 532,
+        "fang": 598,
         "mango": 0,
         "banana": 0,
         "grape": 0
@@ -522,424 +522,424 @@
       "artifacts": {
         "grimoire": 0,
         "scepter": 0,
-        "crown": 0,
+        "crown": 1,
         "gemstone": 0,
         "cloak": 0,
         "spear": 0
       },
-      "defenseLevel": 34,
-      "attackLevel": 34,
-      "exp": 6504,
-      "level": 8,
-      "aegis": 1700,
-      "basics": 850,
+      "defenseLevel": 100,
+      "attackLevel": 100,
+      "exp": 4118,
+      "level": 12,
+      "aegis": 3500,
+      "basics": 2500,
       "activityLog": [
         {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747572404352
-        },
-        {
-          "message": "kosong melakukan berburu Serigala",
-          "timestamp": 1747572416713
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747572788762
-        },
-        {
-          "message": "kosong beli 100 iron seharga Cp. 1000",
-          "timestamp": 1747572820491
-        },
-        {
-          "message": "kosong beli 400 rock seharga Cp. 2000",
-          "timestamp": 1747572859269
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747572871232
-        },
-        {
-          "message": "kosong melakukan berburu Beruang",
-          "timestamp": 1747578718692
-        },
-        {
-          "message": "kosong melakukan nambang di Hutan",
-          "timestamp": 1747578724402
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747578733818
-        },
-        {
-          "message": "kosong melakukan nebang.",
-          "timestamp": 1747578748837
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747578754208
-        },
-        {
-          "message": "kosong melakukan nambang di Hutan",
-          "timestamp": 1747583553488
-        },
-        {
           "message": "kosong melakukan berburu Pohon Apel",
-          "timestamp": 1747583558190
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747583568279
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747583577174
-        },
-        {
-          "message": "kosong melakukan berburu Pohon Apel",
-          "timestamp": 1747614274079
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747614279756
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747614290447
+          "timestamp": 1748077330077
         },
         {
           "message": "kosong melakukan nambang di Hutan",
-          "timestamp": 1747614301036
-        },
-        {
-          "message": "kosong melakukan nebang.",
-          "timestamp": 1747614306763
-        },
-        {
-          "message": "kosong beli 100 iron seharga Cp. 1000",
-          "timestamp": 1747614425975
-        },
-        {
-          "message": "kosong beli 700 rock seharga Cp. 3500",
-          "timestamp": 1747614454646
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747614467666
-        },
-        {
-          "message": "kosong melakukan berburu Serigala",
-          "timestamp": 1747639141325
+          "timestamp": 1748077338233
         },
         {
           "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747639155018
+          "timestamp": 1748077342382
         },
         {
           "message": "kosong melakukan jelajah.",
-          "timestamp": 1747639198916
+          "timestamp": 1748077354650
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748077362132
         },
         {
           "message": "kosong melakukan nambang di Hutan",
-          "timestamp": 1747639216864
-        },
-        {
-          "message": "kosong melakukan nebang.",
-          "timestamp": 1747639240345
-        },
-        {
-          "message": "kosong melakukan nebang.",
-          "timestamp": 1747642420690
+          "timestamp": 1748081031496
         },
         {
           "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747642452417
+          "timestamp": 1748081031801
         },
         {
           "message": "kosong melakukan berburu Rusa",
-          "timestamp": 1747650438198
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747650443385
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747650452747
+          "timestamp": 1748081032112
         },
         {
           "message": "kosong melakukan nebang.",
-          "timestamp": 1747650465056
-        },
-        {
-          "message": "kosong melakukan nambang di Hutan",
-          "timestamp": 1747650477147
-        },
-        {
-          "message": "kosong jual 97 fang seharga Cp. 1164",
-          "timestamp": 1747650656943
-        },
-        {
-          "message": "kosong jual 110 skin seharga Cp. 660",
-          "timestamp": 1747650672227
-        },
-        {
-          "message": "kosong jual 3 feather seharga Cp. 12",
-          "timestamp": 1747650691875
-        },
-        {
-          "message": "kosong jual 224 bone seharga Cp. 1792",
-          "timestamp": 1747650706986
-        },
-        {
-          "message": "kosong jual 335 meat seharga Cp. 3350",
-          "timestamp": 1747650735037
-        },
-        {
-          "message": "kosong jual 68 berry seharga Cp. 204",
-          "timestamp": 1747650759918
-        },
-        {
-          "message": "kosong jual 93 apple seharga Cp. 465",
-          "timestamp": 1747650777256
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747650817897
-        },
-        {
-          "message": "kosong beli 300 coal seharga Cp. 1500",
-          "timestamp": 1747650902985
-        },
-        {
-          "message": "kosong beli 400 iron seharga Cp. 4000",
-          "timestamp": 1747650932022
-        },
-        {
-          "message": "kosong beli 200 iron seharga Cp. 2000",
-          "timestamp": 1747650958784
-        },
-        {
-          "message": "kosong beli 400 rock seharga Cp. 2000",
-          "timestamp": 1747650975177
-        },
-        {
-          "message": "kosong beli 400 iron seharga Cp. 4000",
-          "timestamp": 1747651034293
-        },
-        {
-          "message": "kosong beli 400 coal seharga Cp. 2000",
-          "timestamp": 1747651061357
-        },
-        {
-          "message": "kosong beli 500 rock seharga Cp. 2500",
-          "timestamp": 1747651322366
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747651339967
-        },
-        {
-          "message": "kosong jual 2000 string seharga Cp. 5000",
-          "timestamp": 1747651494831
-        },
-        {
-          "message": "kosong beli 300 diamond seharga Cp. 6000",
-          "timestamp": 1747651522967
-        },
-        {
-          "message": "kosong beli 400 diamond seharga Cp. 8000",
-          "timestamp": 1747651541362
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747652129494
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747652139965
-        },
-        {
-          "message": "kosong menambahkan Cp. 99.999 ke bank.",
-          "timestamp": 1747653650089
-        },
-        {
-          "message": "kosong beli 10000 iron seharga Cp. 100000",
-          "timestamp": 1747653778872
-        },
-        {
-          "message": "kosong ngirim request aliansi ke clan *Badut*.",
-          "timestamp": 1747653879302
-        },
-        {
-          "message": "kosong menambahkan Cp. 99.999 ke bank.",
-          "timestamp": 1747653920294
-        },
-        {
-          "message": "kosong beli 10000 coal seharga Cp. 50000",
-          "timestamp": 1747653947106
-        },
-        {
-          "message": "kosong beli 10000 rock seharga Cp. 50000",
-          "timestamp": 1747654028411
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654038473
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654047163
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654052929
-        },
-        {
-          "message": "kosong menambahkan Cp. 999.999.999 ke bank.",
-          "timestamp": 1747654131744
-        },
-        {
-          "message": "kosong beli 10000 wood seharga Cp. 50000",
-          "timestamp": 1747654141806
-        },
-        {
-          "message": "kosong beli 10000 diamond seharga Cp. 200000",
-          "timestamp": 1747654166722
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654176100
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654183263
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654214047
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654226958
-        },
-        {
-          "message": "kosong beli 10000 string seharga Cp. 50000",
-          "timestamp": 1747654252731
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654259249
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654268989
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654279445
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654351987
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654358287
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654367195
-        },
-        {
-          "message": "kosong beli 50000 rock seharga Cp. 250000",
-          "timestamp": 1747654405584
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747654420426
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654434971
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747654452261
-        },
-        {
-          "message": "kosong melakukan jelajah.",
-          "timestamp": 1747654823475
-        },
-        {
-          "message": "kosong menyelesaikan dungeon.",
-          "timestamp": 1747654825639
+          "timestamp": 1748081032763
         },
         {
           "message": "kosong melakukan berburu Serigala",
-          "timestamp": 1747654836062
+          "timestamp": 1748085776321
         },
         {
-          "message": "kosong beli 1000 string seharga Cp. 5000",
-          "timestamp": 1747654877370
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748085778426
         },
         {
-          "message": "kosong beli 10000 coal seharga Cp. 50000",
-          "timestamp": 1747654892166
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748085785676
         },
         {
-          "message": "kosong beli 10000 diamond seharga Cp. 200000",
-          "timestamp": 1747654904326
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748085794285
         },
         {
-          "message": "kosong mentransfer 1000000 🏦 Bank ke clan *Bonek mania*",
-          "timestamp": 1747655253398
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748085797621
         },
         {
-          "message": "kosong mentransfer 90000000 🏦 Bank ke clan *Bonek mania*",
-          "timestamp": 1747655311733
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748090110445
         },
         {
-          "message": "kosong mentransfer 908196968 🏦 Bank ke clan *Bonek mania*",
-          "timestamp": 1747655493317
+          "message": "kosong melakukan berburu Serigala",
+          "timestamp": 1748090112397
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748090124466
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748090136409
+        },
+        {
+          "message": "kosong menambahkan Cp. 100.000 ke bank.",
+          "timestamp": 1748090174413
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748091678836
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748091693229
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748097412923
+        },
+        {
+          "message": "kosong melakukan berburu Serigala",
+          "timestamp": 1748097422122
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748097429558
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748097445776
+        },
+        {
+          "message": "kosong melakukan nambang di Tambang Batu",
+          "timestamp": 1748101544275
+        },
+        {
+          "message": "kosong melakukan berburu Ayam",
+          "timestamp": 1748101545704
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748101571900
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748101583079
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748101605341
+        },
+        {
+          "message": "kosong melakukan berburu Beruang",
+          "timestamp": 1748130921486
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748130935402
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748130947390
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748130951958
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748130956504
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748144689791
+        },
+        {
+          "message": "kosong melakukan berburu Serigala",
+          "timestamp": 1748144696705
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748144735852
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748144739216
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748144763245
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748151157608
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748151172940
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748151190873
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748151194786
+        },
+        {
+          "message": "kosong melakukan berburu Babi",
+          "timestamp": 1748151210550
         },
         {
           "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747655698812
+          "timestamp": 1748151221035
         },
         {
           "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747655753074
-        },
-        {
-          "message": "kosong menambahkan Cp. 10 ke bank.",
-          "timestamp": 1747656810714
-        },
-        {
-          "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747657711033
+          "timestamp": 1748151225449
         },
         {
           "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747657715551
-        },
-        {
-          "message": "kosong meng-upgrade attack clan.",
-          "timestamp": 1747657724482
+          "timestamp": 1748151230167
         },
         {
           "message": "kosong meng-upgrade defense clan.",
-          "timestamp": 1747657733425
+          "timestamp": 1748151236012
         },
         {
-          "message": "kosong menambahkan Cp. 10 ke bank.",
-          "timestamp": 1747657971057
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151250086
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151253757
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151266276
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151270418
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151283790
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151296461
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151301463
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151313445
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151336263
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151336590
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151346212
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151346560
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151354958
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151355280
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151363306
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151363650
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151372291
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151372650
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151380585
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151380933
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151388690
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151389007
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151396761
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151397112
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151409257
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151409597
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151417218
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151417547
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151425927
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151426240
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151433752
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151434064
+        },
+        {
+          "message": "kosong meng-upgrade attack clan.",
+          "timestamp": 1748151448785
+        },
+        {
+          "message": "kosong meng-upgrade defense clan.",
+          "timestamp": 1748151449144
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748158302045
+        },
+        {
+          "message": "kosong melakukan berburu Serigala",
+          "timestamp": 1748158310382
+        },
+        {
+          "message": "kosong melakukan nebang.",
+          "timestamp": 1748158316030
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748158323622
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748158338954
+        },
+        {
+          "message": "kosong menyelesaikan dungeon.",
+          "timestamp": 1748167912276
+        },
+        {
+          "message": "kosong melakukan nambang di Hutan",
+          "timestamp": 1748167928223
+        },
+        {
+          "message": "kosong melakukan jelajah.",
+          "timestamp": 1748167958601
+        },
+        {
+          "message": "kosong melakukan berburu Pohon Apel",
+          "timestamp": 1748167977930
+        },
+        {
+          "message": "gtw melakukan nambang di Hutan",
+          "timestamp": 1748178423445
+        },
+        {
+          "message": "gtw melakukan berburu Serigala",
+          "timestamp": 1748178426546
+        },
+        {
+          "message": "gtw menyelesaikan dungeon.",
+          "timestamp": 1748178436306
+        },
+        {
+          "message": "gtw melakukan nebang.",
+          "timestamp": 1748178444166
+        },
+        {
+          "message": "araa melakukan nambang di Hutan",
+          "timestamp": 1748186590318
+        },
+        {
+          "message": "araa menyelesaikan dungeon.",
+          "timestamp": 1748186593523
+        },
+        {
+          "message": "araa melakukan berburu Serigala",
+          "timestamp": 1748186597305
+        },
+        {
+          "message": "araa melakukan nebang.",
+          "timestamp": 1748186616799
         }
       ],
       "settings": {
         "approval": true
       },
-      "bank": 100551,
-      "profile": "https://files.catbox.moe/tc4uq8.jpg",
+      "bank": 224434,
+      "profile": "https://files.catbox.moe/v0v38d.jpg",
       "officers": [],
       "transferHistory": {},
       "alliances": [
@@ -956,16 +956,16 @@
       "season": 1,
       "seasonStart": 1744243200000,
       "memberCooldownsV2": {
-        "6281399172380@s.whatsapp.net": 1747650465053
+        "6281399172380@s.whatsapp.net": 1748186616799
       },
       "memberCooldowns": {
-        "6281399172380@s.whatsapp.net": 1747654823473
+        "6281399172380@s.whatsapp.net": 1748167958601
       },
       "isInWar": false,
-      "lastWar": 1747656559635,
+      "lastWar": 1748151763565,
       "dungeonCooldown": {
         "6281399172380@s.whatsapp.net": {
-          "lastCompleted": 1747654825635
+          "lastCompleted": 1748186593522
         }
       },
       "profileMessage": ".clan setprofile"
@@ -1091,26 +1091,26 @@
     },
     "05yj2p": {
       "id": "05yj2p",
-      "name": "TRICSTED",
+      "name": "Watashi wa maoda",
       "owner": "6282395612977@s.whatsapp.net",
       "members": [
         "6282395612977@s.whatsapp.net",
         "6289526534401@s.whatsapp.net"
       ],
       "resources": {
-        "wood": 257,
-        "iron": 252,
-        "diamond": 418,
-        "rock": 159,
-        "coal": 253,
-        "string": 2041,
-        "apple": 65,
-        "berry": 83,
-        "meat": 614,
-        "bone": 505,
-        "feather": 0,
-        "skin": 41,
-        "fang": 246,
+        "wood": 19691,
+        "iron": 20248,
+        "diamond": 20103,
+        "rock": 19235,
+        "coal": 19622,
+        "string": 41765,
+        "apple": 105,
+        "berry": 148,
+        "meat": 749,
+        "bone": 630,
+        "feather": 28,
+        "skin": 79,
+        "fang": 299,
         "mango": 0,
         "banana": 0,
         "grape": 4
@@ -1123,205 +1123,13 @@
         "cloak": 0,
         "spear": 0
       },
-      "defenseLevel": 6,
-      "attackLevel": 7,
-      "exp": 1222,
+      "defenseLevel": 14,
+      "attackLevel": 9,
+      "exp": 3888,
       "level": 4,
       "aegis": 0,
-      "basics": 175,
+      "basics": 225,
       "activityLog": [
-        {
-          "message": "lipzzofmoon🐺🇱🇺 meng-upgrade defense clan.",
-          "timestamp": 1747125633334
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 menyelesaikan dungeon.",
-          "timestamp": 1747125716195
-        },
-        {
-          "message": "rin melakukan berburu Kelinci",
-          "timestamp": 1747129522538
-        },
-        {
-          "message": "rin melakukan nebang.",
-          "timestamp": 1747129526036
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747129534351
-        },
-        {
-          "message": "rin menyelesaikan dungeon.",
-          "timestamp": 1747129540746
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan berburu Serigala",
-          "timestamp": 1747129552102
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 beli 40 iron seharga Cp. 400",
-          "timestamp": 1747132493292
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan jelajah.",
-          "timestamp": 1747132538890
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 menyelesaikan dungeon.",
-          "timestamp": 1747132553739
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan nebang.",
-          "timestamp": 1747132567746
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 beli 19 rock seharga Cp. 95",
-          "timestamp": 1747132682107
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 meng-upgrade attack clan.",
-          "timestamp": 1747132695323
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747139726345
-        },
-        {
-          "message": "rin melakukan berburu Serigala",
-          "timestamp": 1747139732184
-        },
-        {
-          "message": "rin menyelesaikan dungeon.",
-          "timestamp": 1747139736396
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan berburu Rusa",
-          "timestamp": 1747201514620
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan nambang di Hutan",
-          "timestamp": 1747201524047
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 menyelesaikan dungeon.",
-          "timestamp": 1747201542953
-        },
-        {
-          "message": "lipzzofmoon🐺🇱🇺 melakukan nebang.",
-          "timestamp": 1747201554543
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747226331257
-        },
-        {
-          "message": "rin melakukan berburu Serigala",
-          "timestamp": 1747226334058
-        },
-        {
-          "message": "rin menyelesaikan dungeon.",
-          "timestamp": 1747226338831
-        },
-        {
-          "message": "rin melakukan nebang.",
-          "timestamp": 1747226344273
-        },
-        {
-          "message": "rin melakukan jelajah.",
-          "timestamp": 1747226476737
-        },
-        {
-          "message": "rin melakukan berburu Babi",
-          "timestamp": 1747266895096
-        },
-        {
-          "message": "rin melakukan jelajah.",
-          "timestamp": 1747266899982
-        },
-        {
-          "message": "rin menyelesaikan dungeon.",
-          "timestamp": 1747266905945
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747266910103
-        },
-        {
-          "message": "rin melakukan nebang.",
-          "timestamp": 1747266917355
-        },
-        {
-          "message": "rin menyelesaikan dungeon.",
-          "timestamp": 1747305514565
-        },
-        {
-          "message": "rin melakukan jelajah.",
-          "timestamp": 1747305522288
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747305525116
-        },
-        {
-          "message": "rin melakukan berburu Rusa",
-          "timestamp": 1747305537802
-        },
-        {
-          "message": "rin melakukan nebang.",
-          "timestamp": 1747305551553
-        },
-        {
-          "message": "rin melakukan nambang di Hutan",
-          "timestamp": 1747360133614
-        },
-        {
-          "message": "rin melakukan jelajah.",
-          "timestamp": 1747360138579
-        },
-        {
-          "message": "rin melakukan nebang.",
-          "timestamp": 1747360143159
-        },
-        {
-          "message": "rin melakukan berburu Serigala",
-          "timestamp": 1747360148011
-        },
-        {
-          "message": "rin meng-upgrade defense clan.",
-          "timestamp": 1747362133403
-        },
-        {
-          "message": "rin meng-upgrade defense clan.",
-          "timestamp": 1747362144165
-        },
-        {
-          "message": "rin melakukan jelajah.",
-          "timestamp": 1747362173960
-        },
-        {
-          "message": "rin beli 60 rock seharga Cp. 300",
-          "timestamp": 1747362330953
-        },
-        {
-          "message": "rin meng-upgrade attack clan.",
-          "timestamp": 1747362342246
-        },
-        {
-          "message": "rin beli 1 iron seharga Cp. 10",
-          "timestamp": 1747362409290
-        },
-        {
-          "message": "rin beli 95 rock seharga Cp. 475",
-          "timestamp": 1747362439533
-        },
-        {
-          "message": "rin meng-upgrade defense clan.",
-          "timestamp": 1747362449774
-        },
-        {
-          "message": "rin beli 185 rock seharga Cp. 925",
-          "timestamp": 1747362510884
-        },
         {
           "message": "rin beli 110 iron seharga Cp. 1100",
           "timestamp": 1747362528018
@@ -1529,12 +1337,204 @@
         {
           "message": "rin melakukan nambang di Hutan",
           "timestamp": 1747629001255
+        },
+        {
+          "message": "rin ganti nama clan dari \"TRICSTED\" jadi \"Watashi wa maoda\" dengan biaya Cp. 1000.",
+          "timestamp": 1747710719169
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1747710776955
+        },
+        {
+          "message": "rin melakukan berburu Rusa",
+          "timestamp": 1747710779722
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747710786039
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1747710791682
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1747710796942
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747711383711
+        },
+        {
+          "message": "rin beli 1000 rock seharga Cp. 5000",
+          "timestamp": 1747711411902
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747711422399
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747711435249
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747712482282
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1747712503779
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1747786510402
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747786514471
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1747786524232
+        },
+        {
+          "message": "rin melakukan berburu Kelinci",
+          "timestamp": 1747786540522
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1747786543674
+        },
+        {
+          "message": "rin beli 1000 iron seharga Cp. 10000",
+          "timestamp": 1747786617936
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747786628864
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747793361533
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1747793418550
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1747793427405
+        },
+        {
+          "message": "rin melakukan berburu Serigala",
+          "timestamp": 1747793431237
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747807167227
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1747807174951
+        },
+        {
+          "message": "rin melakukan berburu Pohon Apel",
+          "timestamp": 1747807178587
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1747807187996
+        },
+        {
+          "message": "rin meng-upgrade attack clan.",
+          "timestamp": 1747979924860
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1747979977304
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1747979985497
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1747979990456
+        },
+        {
+          "message": "rin melakukan berburu Ayam",
+          "timestamp": 1747979998415
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1747980002225
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747980536717
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1747980546986
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1748003249363
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1748047435071
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1748047438803
+        },
+        {
+          "message": "rin melakukan berburu Pohon Apel",
+          "timestamp": 1748047441843
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1748047445998
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1748047450924
+        },
+        {
+          "message": "rin meng-upgrade defense clan.",
+          "timestamp": 1748072192228
+        },
+        {
+          "message": "rin meng-upgrade attack clan.",
+          "timestamp": 1748072197027
+        },
+        {
+          "message": "rin menyelesaikan dungeon.",
+          "timestamp": 1748085860546
+        },
+        {
+          "message": "rin melakukan berburu Serigala",
+          "timestamp": 1748085864094
+        },
+        {
+          "message": "rin melakukan nambang di Hutan",
+          "timestamp": 1748085870392
+        },
+        {
+          "message": "rin melakukan jelajah.",
+          "timestamp": 1748085878393
+        },
+        {
+          "message": "rin melakukan nebang.",
+          "timestamp": 1748085883943
         }
       ],
       "settings": {
         "approval": true
       },
-      "bank": 14905,
+      "bank": 25296,
       "profile": "https://files.catbox.moe/3f1z96.jpg",
       "officers": [],
       "transferHistory": {},
@@ -1549,13 +1549,13 @@
       "season": 1,
       "seasonStart": 1744243200000,
       "isInWar": false,
-      "lastWar": 1747570765400,
+      "lastWar": 1748077688521,
       "memberCooldownsV2": {
-        "6282395612977@s.whatsapp.net": 1747476742500,
+        "6282395612977@s.whatsapp.net": 1748085883942,
         "6289526534401@s.whatsapp.net": 1747201554543
       },
       "memberCooldowns": {
-        "6282395612977@s.whatsapp.net": 1747570421140,
+        "6282395612977@s.whatsapp.net": 1748085878392,
         "6289526534401@s.whatsapp.net": 1747132538890
       },
       "dungeonCooldown": {
@@ -1563,7 +1563,7 @@
           "lastCompleted": 1747201542953
         },
         "6282395612977@s.whatsapp.net": {
-          "lastCompleted": 1747628982432
+          "lastCompleted": 1748085860545
         }
       },
       "profileMessage": ".clan setprofile"
@@ -1577,18 +1577,18 @@
         "6287877612403@s.whatsapp.net"
       ],
       "resources": {
-        "wood": 99,
-        "iron": 28,
-        "diamond": 23,
-        "rock": 27,
-        "coal": 13,
-        "string": 262,
+        "wood": 137,
+        "iron": 36,
+        "diamond": 26,
+        "rock": 33,
+        "coal": 16,
+        "string": 368,
         "apple": 0,
         "berry": 0,
-        "meat": 5,
-        "bone": 31,
+        "meat": 18,
+        "bone": 66,
         "feather": 0,
-        "skin": 29,
+        "skin": 56,
         "fang": 0,
         "mango": 0,
         "banana": 0,
@@ -1604,7 +1604,7 @@
       },
       "defenseLevel": 1,
       "attackLevel": 1,
-      "exp": 358,
+      "exp": 599,
       "level": 1,
       "aegis": 0,
       "basics": 25,
@@ -1652,12 +1652,28 @@
         {
           "message": "Babyy melakukan nebang.",
           "timestamp": 1747201868914
+        },
+        {
+          "message": "Babyy melakukan nambang di Hutan",
+          "timestamp": 1747901327841
+        },
+        {
+          "message": "Babyy melakukan jelajah.",
+          "timestamp": 1747901379567
+        },
+        {
+          "message": "Babyy melakukan nebang.",
+          "timestamp": 1747901401210
+        },
+        {
+          "message": "Babyy melakukan berburu Rusa",
+          "timestamp": 1747901413752
         }
       ],
       "settings": {
         "approval": false
       },
-      "bank": 407,
+      "bank": 713,
       "profile": null,
       "officers": [],
       "transferHistory": {},
@@ -1673,12 +1689,12 @@
       "seasonStart": 1744243200000,
       "memberCooldowns": {
         "6283131881340@s.whatsapp.net": 1746584008916,
-        "6287877612403@s.whatsapp.net": 1747201836836
+        "6287877612403@s.whatsapp.net": 1747901379566
       },
       "isInWar": false,
       "memberCooldownsV2": {
         "6283131881340@s.whatsapp.net": 1746584109721,
-        "6287877612403@s.whatsapp.net": 1747201868914
+        "6287877612403@s.whatsapp.net": 1747901401210
       },
       "lastWar": 1747128710569
     },
@@ -1771,478 +1787,6 @@
       "isInWar": false,
       "lastWar": 1746711076545
     },
-    "qmegdz": {
-      "id": "qmegdz",
-      "name": "abcdefghikanjut",
-      "owner": "6285230765748@s.whatsapp.net",
-      "members": [
-        "6285230765748@s.whatsapp.net"
-      ],
-      "resources": {
-        "wood": 90208791,
-        "iron": 208306,
-        "diamond": 209019,
-        "rock": 207197,
-        "coal": 408814,
-        "string": 208639,
-        "apple": 0,
-        "berry": 0,
-        "meat": 83,
-        "bone": 60,
-        "feather": 0,
-        "skin": 129,
-        "fang": 0,
-        "mango": 0,
-        "banana": 0,
-        "grape": 0
-      },
-      "artifacts": {
-        "grimoire": 0,
-        "scepter": 0,
-        "crown": 0,
-        "gemstone": 0,
-        "cloak": 0,
-        "spear": 0
-      },
-      "defenseLevel": 11,
-      "attackLevel": 11,
-      "exp": 640,
-      "level": 2,
-      "aegis": 550,
-      "basics": 275,
-      "activityLog": [
-        {
-          "message": "putri melakukan nambang di Tambang Batu",
-          "timestamp": 1746749960347
-        },
-        {
-          "message": "putri beli 20 wood seharga Cp. 100",
-          "timestamp": 1746771168398
-        },
-        {
-          "message": "putri melakukan nebang.",
-          "timestamp": 1746771199856
-        },
-        {
-          "message": "putri melakukan berburu Serigala",
-          "timestamp": 1746771205331
-        },
-        {
-          "message": "putri melakukan nambang di Hutan",
-          "timestamp": 1746771212599
-        },
-        {
-          "message": "putri beli 10 iron seharga Cp. 100",
-          "timestamp": 1746788242603
-        },
-        {
-          "message": "putri beli 1 wood seharga Cp. 5",
-          "timestamp": 1746789922002
-        },
-        {
-          "message": "putri beli 20 wood seharga Cp. 100",
-          "timestamp": 1746789934772
-        },
-        {
-          "message": "putri beli 10 wood seharga Cp. 50",
-          "timestamp": 1746789954252
-        },
-        {
-          "message": "putri beli 10 iron seharga Cp. 100",
-          "timestamp": 1746789969241
-        },
-        {
-          "message": "putri jual 78 fang seharga Cp. 936",
-          "timestamp": 1746790779161
-        },
-        {
-          "message": "putri jual 95 bone seharga Cp. 760",
-          "timestamp": 1746790803713
-        },
-        {
-          "message": "putri jual 49 meat seharga Cp. 490",
-          "timestamp": 1746790828716
-        },
-        {
-          "message": "putri beli 10 iron seharga Cp. 100",
-          "timestamp": 1746790872194
-        },
-        {
-          "message": "putri beli 10 diamond seharga Cp. 200",
-          "timestamp": 1746790889214
-        },
-        {
-          "message": "putri beli 20 wood seharga Cp. 100",
-          "timestamp": 1746792228176
-        },
-        {
-          "message": "putri beli 20 iron seharga Cp. 200",
-          "timestamp": 1746792235559
-        },
-        {
-          "message": "putri beli 20 wood seharga Cp. 100",
-          "timestamp": 1746793590567
-        },
-        {
-          "message": "putri beli 4 diamond seharga Cp. 80",
-          "timestamp": 1746793607396
-        },
-        {
-          "message": "putri beli 10 rock seharga Cp. 50",
-          "timestamp": 1746793621926
-        },
-        {
-          "message": "putri beli 10 rock seharga Cp. 50",
-          "timestamp": 1746793650231
-        },
-        {
-          "message": "putri melakukan nambang di Hutan",
-          "timestamp": 1746805830092
-        },
-        {
-          "message": "putri melakukan berburu Serigala",
-          "timestamp": 1746805833872
-        },
-        {
-          "message": "putri melakukan nebang.",
-          "timestamp": 1746805866064
-        },
-        {
-          "message": "putri mentransfer 36 🪵 Wood ke clan *pride of gold*",
-          "timestamp": 1746806205963
-        },
-        {
-          "message": "putri mentransfer 4 🪨 Iron ke clan *pride of gold*",
-          "timestamp": 1746806236302
-        },
-        {
-          "message": "putri jual 3 diamond seharga Cp. 30",
-          "timestamp": 1746806266612
-        },
-        {
-          "message": "putri mentransfer 260 🧵 String ke clan *pride of gold*",
-          "timestamp": 1746806325430
-        },
-        {
-          "message": "putri jual 7 rock seharga Cp. 17",
-          "timestamp": 1746806397735
-        },
-        {
-          "message": "putri jual 2 coal seharga Cp. 5",
-          "timestamp": 1746806413280
-        },
-        {
-          "message": "putri jual 41 apple seharga Cp. 205",
-          "timestamp": 1746806426229
-        },
-        {
-          "message": "putri jual 1 berry seharga Cp. 3",
-          "timestamp": 1746806446339
-        },
-        {
-          "message": "putri jual 24 meat seharga Cp. 240",
-          "timestamp": 1746806468181
-        },
-        {
-          "message": "putri jual 39 bone seharga Cp. 312",
-          "timestamp": 1746806508598
-        },
-        {
-          "message": "putri jual 20 fang seharga Cp. 240",
-          "timestamp": 1746806559991
-        },
-        {
-          "message": "putri mentransfer 2769 🏦 Bank ke clan *pride of gold*",
-          "timestamp": 1746806630823
-        },
-        {
-          "message": "aye aye melakukan berburu Rusa",
-          "timestamp": 1747076427606
-        },
-        {
-          "message": "aye aye melakukan nambang di Hutan",
-          "timestamp": 1747076438985
-        },
-        {
-          "message": "aye aye melakukan jelajah.",
-          "timestamp": 1747076466618
-        },
-        {
-          "message": "aye aye melakukan nebang.",
-          "timestamp": 1747076485798
-        },
-        {
-          "message": "aye aye beli 100 coal seharga Cp. 500",
-          "timestamp": 1747109422059
-        },
-        {
-          "message": "aye aye melakukan berburu Rusa",
-          "timestamp": 1747651717775
-        },
-        {
-          "message": "aye aye melakukan nambang di Hutan",
-          "timestamp": 1747651728154
-        },
-        {
-          "message": "aye aye melakukan jelajah.",
-          "timestamp": 1747651738028
-        },
-        {
-          "message": "aye aye melakukan nebang.",
-          "timestamp": 1747651779696
-        },
-        {
-          "message": "aye aye mentransfer 81 🪵 Wood ke clan *pride of gold*",
-          "timestamp": 1747651968963
-        },
-        {
-          "message": "aye aye mentransfer 22 🪨 Iron ke clan *pride of gold*",
-          "timestamp": 1747651995190
-        },
-        {
-          "message": "aye aye mentransfer 16 💎 Diamond ke clan *pride of gold*",
-          "timestamp": 1747652019786
-        },
-        {
-          "message": "aye aye mentransfer 16 🪨 Rock ke clan *pride of gold*",
-          "timestamp": 1747652031403
-        },
-        {
-          "message": "aye aye mentransfer 118 ⚫ Coal ke clan *pride of gold*",
-          "timestamp": 1747652057602
-        },
-        {
-          "message": "aye aye mentransfer 107 🧵 String ke clan *pride of gold*",
-          "timestamp": 1747652081466
-        },
-        {
-          "message": "aye aye mentransfer 100000 🏦 Bank ke clan *pride of gold*",
-          "timestamp": 1747655592669
-        },
-        {
-          "message": "aye aye menambahkan Cp. 10 ke bank.",
-          "timestamp": 1747655881902
-        },
-        {
-          "message": "aye aye menambahkan Cp. 10 ke bank.",
-          "timestamp": 1747655935368
-        },
-        {
-          "message": "aye aye beli 10000 wood seharga Cp. 50000",
-          "timestamp": 1747656142157
-        },
-        {
-          "message": "aye aye beli 10000 iron seharga Cp. 100000",
-          "timestamp": 1747656152936
-        },
-        {
-          "message": "aye aye beli 10000 diamond seharga Cp. 200000",
-          "timestamp": 1747656163927
-        },
-        {
-          "message": "aye aye beli 10000 rock seharga Cp. 50000",
-          "timestamp": 1747656174223
-        },
-        {
-          "message": "aye aye beli 10000 coal seharga Cp. 50000",
-          "timestamp": 1747656183602
-        },
-        {
-          "message": "aye aye beli 10000 string seharga Cp. 50000",
-          "timestamp": 1747656190746
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656200451
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656206062
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656213318
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656218255
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656230654
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656235084
-        },
-        {
-          "message": "aye aye beli 100000 wood seharga Cp. 500000",
-          "timestamp": 1747656378121
-        },
-        {
-          "message": "aye aye beli 100000 iron seharga Cp. 1000000",
-          "timestamp": 1747656391763
-        },
-        {
-          "message": "aye aye beli 100000 diamond seharga Cp. 2000000",
-          "timestamp": 1747656406614
-        },
-        {
-          "message": "aye aye beli 100000 rock seharga Cp. 500000",
-          "timestamp": 1747656416636
-        },
-        {
-          "message": "aye aye beli 100000 coal seharga Cp. 500000",
-          "timestamp": 1747656427826
-        },
-        {
-          "message": "aye aye beli 100000 coal seharga Cp. 500000",
-          "timestamp": 1747656441539
-        },
-        {
-          "message": "aye aye beli 100000 string seharga Cp. 500000",
-          "timestamp": 1747656453249
-        },
-        {
-          "message": "aye aye beli 100000 wood seharga Cp. 500000",
-          "timestamp": 1747656492214
-        },
-        {
-          "message": "aye aye beli 100000 iron seharga Cp. 1000000",
-          "timestamp": 1747656492572
-        },
-        {
-          "message": "aye aye beli 100000 diamond seharga Cp. 2000000",
-          "timestamp": 1747656492915
-        },
-        {
-          "message": "aye aye beli 100000 rock seharga Cp. 500000",
-          "timestamp": 1747656493287
-        },
-        {
-          "message": "aye aye beli 100000 coal seharga Cp. 500000",
-          "timestamp": 1747656493717
-        },
-        {
-          "message": "aye aye beli 100000 coal seharga Cp. 500000",
-          "timestamp": 1747656494061
-        },
-        {
-          "message": "aye aye beli 100000 string seharga Cp. 500000",
-          "timestamp": 1747656494416
-        },
-        {
-          "message": "aye aye beli 100000000 wood seharga Cp. 500000000",
-          "timestamp": 1747656620098
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656916862
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656921737
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656928998
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656933732
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656941488
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656946111
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656954312
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656960152
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656970006
-        },
-        {
-          "message": "aye aye meng-upgrade attack clan.",
-          "timestamp": 1747656988720
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747656998176
-        },
-        {
-          "message": "aye aye meng-upgrade defense clan.",
-          "timestamp": 1747657007368
-        },
-        {
-          "message": "aye aye ganti nama clan dari \"Bonek mania\" jadi \"abcdefghikanjut\" dengan biaya Cp. 1000.",
-          "timestamp": 1747657074216
-        },
-        {
-          "message": "aye aye melakukan berburu Rusa",
-          "timestamp": 1747657139534
-        },
-        {
-          "message": "aye aye menyelesaikan dungeon.",
-          "timestamp": 1747657141288
-        },
-        {
-          "message": "aye aye melakukan nambang di Hutan",
-          "timestamp": 1747657152431
-        },
-        {
-          "message": "aye aye melakukan jelajah.",
-          "timestamp": 1747657160034
-        },
-        {
-          "message": "aye aye melakukan nebang.",
-          "timestamp": 1747657169126
-        },
-        {
-          "message": "aye aye jual 10000000 wood seharga Cp. 25000000",
-          "timestamp": 1747657939108
-        }
-      ],
-      "settings": {
-        "approval": false
-      },
-      "bank": 512597153,
-      "profile": null,
-      "officers": [],
-      "transferHistory": {},
-      "alliances": [],
-      "pendingAlliances": [],
-      "pendingMembers": [],
-      "isRaiding": false,
-      "raidMonster": null,
-      "raidPeriod": 0,
-      "raidAllies": [],
-      "lastRaid": 0,
-      "season": 1,
-      "seasonStart": 1744243200000,
-      "memberCooldownsV2": {
-        "6285230765748@s.whatsapp.net": 1747657169122
-      },
-      "memberCooldowns": {
-        "6285230765748@s.whatsapp.net": 1747657160031
-      },
-      "isInWar": false,
-      "lastWar": 1747656559635,
-      "dungeonCooldown": {
-        "6285230765748@s.whatsapp.net": {
-          "lastCompleted": 1747657141282
-        }
-      }
-    },
     "uuxvn4": {
       "id": "uuxvn4",
       "name": "abatunot",
@@ -2318,25 +1862,25 @@
     },
     "75r7w3": {
       "id": "75r7w3",
-      "name": "Npc new",
+      "name": "Kaizou",
       "owner": "6285825430839@s.whatsapp.net",
       "members": [
         "6285825430839@s.whatsapp.net"
       ],
       "resources": {
-        "wood": 2329,
-        "iron": 400,
-        "diamond": 987,
-        "rock": 0,
-        "coal": 816,
-        "string": 6944,
-        "apple": 48,
-        "berry": 27,
-        "meat": 157,
-        "bone": 230,
+        "wood": 9771,
+        "iron": 5857,
+        "diamond": 8878,
+        "rock": 20740,
+        "coal": 8146,
+        "string": 18030,
+        "apple": 0,
+        "berry": 0,
+        "meat": 135,
+        "bone": 696,
         "feather": 0,
-        "skin": 476,
-        "fang": 0,
+        "skin": 227,
+        "fang": 302,
         "mango": 0,
         "banana": 0,
         "grape": 0
@@ -2345,422 +1889,422 @@
         "grimoire": 0,
         "scepter": 0,
         "crown": 0,
-        "gemstone": 0,
+        "gemstone": 1,
         "cloak": 1,
         "spear": 0
       },
-      "defenseLevel": 10,
-      "attackLevel": 10,
-      "exp": 3741,
-      "level": 6,
-      "aegis": 500,
-      "basics": 250,
+      "defenseLevel": 18,
+      "attackLevel": 34,
+      "exp": 6621,
+      "level": 9,
+      "aegis": 0,
+      "basics": 850,
       "activityLog": [
         {
           "message": "Fifi meng-upgrade attack clan.",
-          "timestamp": 1747440471649
+          "timestamp": 1747979770097
         },
         {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747441261049
+          "message": "Fifi meng-upgrade attack clan.",
+          "timestamp": 1747979777511
         },
         {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747444270797
+          "message": "Fifi meng-upgrade attack clan.",
+          "timestamp": 1747979797013
         },
         {
-          "message": "Fifi melakukan berburu Pohon Apel",
-          "timestamp": 1747444274212
+          "message": "Fifi meng-upgrade defense clan.",
+          "timestamp": 1747979806294
         },
         {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747444277204
+          "message": "Fifi meng-upgrade attack clan.",
+          "timestamp": 1747979828478
         },
         {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747444280296
+          "message": "Fifi meng-upgrade attack clan.",
+          "timestamp": 1747979851300
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747444285528
+          "timestamp": 1747979958528
         },
         {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747450016076
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1747979967618
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747450017162
+          "timestamp": 1747980580597
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1747986619018
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1747986621817
+        },
+        {
+          "message": "Fifi melakukan berburu Rusa",
+          "timestamp": 1747986624346
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1747986629929
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1747986633886
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1747988843687
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1747989803670
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1747989816171
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1747989822578
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1747990811100
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1747991930634
         },
         {
           "message": "Fifi melakukan berburu Serigala",
-          "timestamp": 1747450019039
+          "timestamp": 1747991931056
         },
         {
           "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747450023924
+          "timestamp": 1747991931652
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747450025930
-        },
-        {
-          "message": "Fifi meng-upgrade defense clan.",
-          "timestamp": 1747450123989
+          "timestamp": 1747991950441
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747451413823
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747453294944
+          "timestamp": 1747997278492
         },
         {
           "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747456348726
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747456353893
+          "timestamp": 1747997282912
         },
         {
           "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747456366599
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747465794340
-        },
-        {
-          "message": "Fifi melakukan berburu Beruang",
-          "timestamp": 1747465795583
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747465798620
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747465805257
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747468290127
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747468292037
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747479069285
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747479070251
+          "timestamp": 1747997286786
         },
         {
           "message": "Fifi melakukan berburu Serigala",
-          "timestamp": 1747479070703
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747479072384
+          "timestamp": 1747997290151
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747479077982
+          "timestamp": 1747997297162
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747482962126
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747482965098
-        },
-        {
-          "message": "Fifi melakukan berburu Pohon Apel",
-          "timestamp": 1747482967957
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747482972818
+          "timestamp": 1747999684840
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747482985216
+          "timestamp": 1747999699873
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747486448870
+          "timestamp": 1748000868459
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748000874870
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748001869974
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748001887538
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748002006344
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748002966768
+        },
+        {
+          "message": "Fifi melakukan berburu Babi",
+          "timestamp": 1748005592397
         },
         {
           "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747488791810
+          "timestamp": 1748005596112
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747488802477
+          "timestamp": 1748005599267
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748005601915
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748005606797
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748006739012
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748007647213
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748044410365
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748044414535
+        },
+        {
+          "message": "Fifi melakukan nambang di Tambang Batu",
+          "timestamp": 1748044416725
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748044419839
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748044424513
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748047394565
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748047424728
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748047427376
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748054153530
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1748054157571
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748054164361
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748054169892
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748054174181
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748055615918
+        },
+        {
+          "message": "Fifi jual 75 apple seharga Cp. 375",
+          "timestamp": 1748055715923
+        },
+        {
+          "message": "Fifi jual 71 berry seharga Cp. 213",
+          "timestamp": 1748055731088
+        },
+        {
+          "message": "Fifi jual 533 meat seharga Cp. 5330",
+          "timestamp": 1748055746851
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748064572501
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748064575120
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1748064579306
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748064580020
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748064584120
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748074677219
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748074679472
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1748074682314
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748074685115
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748074688469
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748077551248
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748077557260
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748077562004
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748082889257
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748082894171
+        },
+        {
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748082905015
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748082912917
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748090809744
+        },
+        {
+          "message": "Fifi melakukan berburu Rusa",
+          "timestamp": 1748090810517
+        },
+        {
+          "message": "Fifi melakukan nambang di Hutan",
+          "timestamp": 1748090814150
+        },
+        {
+          "message": "Fifi melakukan jelajah.",
+          "timestamp": 1748090818789
+        },
+        {
+          "message": "Fifi menyelesaikan dungeon.",
+          "timestamp": 1748090823581
+        },
+        {
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748097780834
         },
         {
           "message": "Fifi melakukan berburu Kelinci",
-          "timestamp": 1747488809796
+          "timestamp": 1748097792031
+        },
+        {
+          "message": "Fifi melakukan nambang di Tambang Batu",
+          "timestamp": 1748097798315
         },
         {
           "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747488814958
+          "timestamp": 1748097804872
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747488819961
-        },
-        {
-          "message": "Fifi meng-upgrade defense clan.",
-          "timestamp": 1747488847360
-        },
-        {
-          "message": "Fifi jual 45 apple seharga Cp. 225",
-          "timestamp": 1747488959340
-        },
-        {
-          "message": "Fifi jual 97 berry seharga Cp. 291",
-          "timestamp": 1747489014434
+          "timestamp": 1748097826462
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747497606772
+          "timestamp": 1748168681123
         },
         {
-          "message": "Fifi melakukan berburu Kelinci",
-          "timestamp": 1747497608196
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747497611172
+          "message": "Fifi melakukan berburu Serigala",
+          "timestamp": 1748168681594
         },
         {
           "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747497614553
+          "timestamp": 1748168685678
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747497619634
-        },
-        {
-          "message": "Fifi melakukan berburu Kelinci",
-          "timestamp": 1747552058061
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747552061501
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747552064764
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747552069842
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747552075693
-        },
-        {
-          "message": "Fifi meng-upgrade defense clan.",
-          "timestamp": 1747552171039
-        },
-        {
-          "message": "Fifi beli 130 rock seharga Cp. 650",
-          "timestamp": 1747552286004
+          "timestamp": 1748168691246
         },
         {
           "message": "Fifi meng-upgrade attack clan.",
-          "timestamp": 1747552298405
+          "timestamp": 1748168820978
         },
         {
-          "message": "Fifi jual 847 meat seharga Cp. 8470",
-          "timestamp": 1747552380289
-        },
-        {
-          "message": "Fifi jual 948 bone seharga Cp. 7584",
-          "timestamp": 1747552399248
-        },
-        {
-          "message": "Fifi jual 420 fang seharga Cp. 5040",
-          "timestamp": 1747552419711
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747555898362
-        },
-        {
-          "message": "Fifi melakukan berburu Beruang",
-          "timestamp": 1747555902781
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748179715918
         },
         {
           "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747555906464
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747555909967
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747564570745
-        },
-        {
-          "message": "Fifi melakukan berburu Pohon Apel",
-          "timestamp": 1747564575031
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747564577801
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747564582939
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747571598486
-        },
-        {
-          "message": "Fifi melakukan berburu Rusa",
-          "timestamp": 1747571602734
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747571605930
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747571610129
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747571619764
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747574262474
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747575991181
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747576008564
-        },
-        {
-          "message": "Fifi melakukan berburu Beruang",
-          "timestamp": 1747576014047
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747576021395
-        },
-        {
-          "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747576029420
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747606099544
+          "timestamp": 1748179716491
         },
         {
           "message": "Fifi melakukan berburu Kelinci",
-          "timestamp": 1747606103305
+          "timestamp": 1748179718369
         },
         {
           "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747606106952
+          "timestamp": 1748179722212
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747606108245
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747606148306
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747638893214
-        },
-        {
-          "message": "Fifi melakukan berburu Rusa",
-          "timestamp": 1747638893671
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747638895069
+          "timestamp": 1748179725718
         },
         {
           "message": "Fifi melakukan nebang.",
-          "timestamp": 1747651310856
+          "timestamp": 1748181143254
         },
         {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747651319149
-        },
-        {
-          "message": "Fifi melakukan jelajah.",
-          "timestamp": 1747651321352
+          "message": "Fifi melakukan nebang.",
+          "timestamp": 1748182360089
         },
         {
           "message": "Fifi menyelesaikan dungeon.",
-          "timestamp": 1747651324454
-        },
-        {
-          "message": "Fifi melakukan berburu Rusa",
-          "timestamp": 1747651334282
-        },
-        {
-          "message": "Fifi meng-upgrade attack clan.",
-          "timestamp": 1747651365803
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747654276049
-        },
-        {
-          "message": "Fifi melakukan nebang.",
-          "timestamp": 1747655987682
-        },
-        {
-          "message": "Fifi melakukan berburu Rusa",
-          "timestamp": 1747655991042
-        },
-        {
-          "message": "Fifi melakukan nambang di Hutan",
-          "timestamp": 1747655995119
-        },
-        {
-          "message": "Fifi beli 272 rock seharga Cp. 1360",
-          "timestamp": 1747656706997
-        },
-        {
-          "message": "Fifi meng-upgrade attack clan.",
-          "timestamp": 1747656759916
-        },
-        {
-          "message": "Fifi beli 150 rock seharga Cp. 750",
-          "timestamp": 1747656797558
-        },
-        {
-          "message": "Fifi meng-upgrade defense clan.",
-          "timestamp": 1747656810627
+          "timestamp": 1748182361687
         }
       ],
       "settings": {
-        "approval": false
+        "approval": true
       },
-      "bank": 69634,
+      "bank": 117944,
       "profile": null,
       "officers": [],
       "transferHistory": {},
@@ -2778,16 +2322,16 @@
       "season": 1,
       "seasonStart": 1744243200000,
       "memberCooldownsV2": {
-        "6285825430839@s.whatsapp.net": 1747655987679
+        "6285825430839@s.whatsapp.net": 1748182360088
       },
       "isInWar": false,
-      "lastWar": 1747570765400,
+      "lastWar": 1748105612136,
       "memberCooldowns": {
-        "6285825430839@s.whatsapp.net": 1747651321349
+        "6285825430839@s.whatsapp.net": 1748179722211
       },
       "dungeonCooldown": {
         "6285825430839@s.whatsapp.net": {
-          "lastCompleted": 1747651324451
+          "lastCompleted": 1748182361686
         }
       }
     },
@@ -2879,6 +2423,668 @@
       "seasonStart": 1744243200000,
       "isInWar": false,
       "lastWar": 1747654185633
+    },
+    "eaakjw": {
+      "id": "eaakjw",
+      "name": "Clan Ryuzaki",
+      "owner": "6285710081049@s.whatsapp.net",
+      "members": [
+        "6285710081049@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 8,
+        "iron": 6,
+        "diamond": 12,
+        "rock": 5,
+        "coal": 9,
+        "string": 48,
+        "apple": 0,
+        "berry": 0,
+        "meat": 50,
+        "bone": 4,
+        "feather": 0,
+        "skin": 0,
+        "fang": 21,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 198,
+      "level": 1,
+      "aegis": 0,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Clan Ryuzaki\" dibuat sama sukri.",
+          "timestamp": 1747659643061
+        },
+        {
+          "message": "sukri melakukan nambang di Hutan",
+          "timestamp": 1747660121654
+        },
+        {
+          "message": "sukri melakukan berburu Serigala",
+          "timestamp": 1747660345676
+        },
+        {
+          "message": "Clan \"PN loss\" dibuat sama aye aye.",
+          "timestamp": 1747667582612
+        },
+        {
+          "message": "aye aye mentransfer 100000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747667877216
+        },
+        {
+          "message": "aye aye mengubah privasi clan menjadi ON (Private)",
+          "timestamp": 1747669793060
+        },
+        {
+          "message": "aye aye ganti nama clan dari \"PN loss\" jadi \"abcdekanjut\" dengan biaya Cp. 1000.",
+          "timestamp": 1747672615811
+        },
+        {
+          "message": "aye aye ganti nama clan dari \"abcdekanjut\" jadi \"lilte girls\" dengan biaya Cp. 1000.",
+          "timestamp": 1747672805064
+        },
+        {
+          "message": "aye aye mentransfer 10000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747693714892
+        },
+        {
+          "message": "aye aye mentransfer 80000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747693773954
+        },
+        {
+          "message": "aye aye mentransfer 80000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747700058503
+        },
+        {
+          "message": "sukri melakukan jelajah.",
+          "timestamp": 1747700318127
+        },
+        {
+          "message": "aye aye mentransfer 80000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747701020470
+        },
+        {
+          "message": "aye aye mentransfer 80000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747738351182
+        },
+        {
+          "message": "aye aye mentransfer 80000 🏦 Bank ke clan *pride of gold*",
+          "timestamp": 1747741566944
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 656,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "season": 1,
+      "seasonStart": 1744243200000,
+      "isInWar": false,
+      "lastWar": 1747661653921,
+      "memberCooldowns": {
+        "6285710081049@s.whatsapp.net": 1747700318125
+      }
+    },
+    "8gqs4m": {
+      "id": "8gqs4m",
+      "name": "the wolf squad",
+      "owner": "6285230765748@s.whatsapp.net",
+      "members": [
+        "6285230765748@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 199900049175,
+        "iron": 199900035232,
+        "diamond": 299900063661,
+        "rock": 99999990981,
+        "coal": 99910051708,
+        "string": 199900145473,
+        "apple": 0,
+        "berry": 0,
+        "meat": 245,
+        "bone": 213,
+        "feather": 0,
+        "skin": 46,
+        "fang": 229,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 60,
+      "attackLevel": 60,
+      "exp": 1195,
+      "level": 3,
+      "aegis": 0,
+      "basics": 1500,
+      "activityLog": [
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764327518
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764330716
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764333523
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764336065
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764338802
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764344765
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764347280
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764350345
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764353194
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764356309
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764361540
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764371836
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764375095
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764377992
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764381911
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764396505
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764400324
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764406566
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764413635
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764425580
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764439386
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764443138
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764446985
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764451220
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764456018
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747764459635
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764468200
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747764472035
+        },
+        {
+          "message": "aye aye melakukan nebang.",
+          "timestamp": 1747764505175
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747764509875
+        },
+        {
+          "message": "aye aye melakukan jelajah.",
+          "timestamp": 1747764523551
+        },
+        {
+          "message": "aye aye beli 100000000 rock seharga Cp. 500000000",
+          "timestamp": 1747765090267
+        },
+        {
+          "message": "aye aye beli 100000000000 rock seharga Cp. 500000000000",
+          "timestamp": 1747765110303
+        },
+        {
+          "message": "aye aye beli 100000000000 wood seharga Cp. 500000000000",
+          "timestamp": 1747765123538
+        },
+        {
+          "message": "aye aye beli 100000000000 iron seharga Cp. 1000000000000",
+          "timestamp": 1747765293507
+        },
+        {
+          "message": "aye aye beli 100000000000 diamond seharga Cp. 2000000000000",
+          "timestamp": 1747765307233
+        },
+        {
+          "message": "aye aye beli 100000000000 string seharga Cp. 500000000000",
+          "timestamp": 1747765316127
+        },
+        {
+          "message": "aye aye beli 100000000000 coal seharga Cp. 500000000000",
+          "timestamp": 1747765324789
+        },
+        {
+          "message": "aye aye beli 100000000000 wood seharga Cp. 500000000000",
+          "timestamp": 1747765400680
+        },
+        {
+          "message": "aye aye beli 100000000000 diamond seharga Cp. 2000000000000",
+          "timestamp": 1747765401031
+        },
+        {
+          "message": "aye aye beli 100000000000 iron seharga Cp. 1000000000000",
+          "timestamp": 1747765401366
+        },
+        {
+          "message": "aye aye beli 100000000000 diamond seharga Cp. 2000000000000",
+          "timestamp": 1747765401756
+        },
+        {
+          "message": "aye aye beli 100000000000 string seharga Cp. 500000000000",
+          "timestamp": 1747765402139
+        },
+        {
+          "message": "aye aye beli 10000000 coal seharga Cp. 50000000",
+          "timestamp": 1747765433699
+        },
+        {
+          "message": "aye aye beli 100000 string seharga Cp. 500000",
+          "timestamp": 1747765510035
+        },
+        {
+          "message": "aye aye melakukan nambang di Hutan",
+          "timestamp": 1747766193181
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747766199997
+        },
+        {
+          "message": "aye aye melakukan nebang.",
+          "timestamp": 1747766211856
+        },
+        {
+          "message": "aye aye melakukan jelajah.",
+          "timestamp": 1747766223171
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747766294299
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747766301969
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747766317317
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747766322090
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747766332593
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747766339086
+        },
+        {
+          "message": "aye aye melakukan nambang di Hutan",
+          "timestamp": 1747801468484
+        },
+        {
+          "message": "aye aye melakukan berburu Serigala",
+          "timestamp": 1747801474894
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747801484995
+        },
+        {
+          "message": "aye aye melakukan jelajah.",
+          "timestamp": 1747801492997
+        },
+        {
+          "message": "aye aye melakukan nebang.",
+          "timestamp": 1747801516691
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747822000330
+        },
+        {
+          "message": "aye aye melakukan jelajah.",
+          "timestamp": 1747822009811
+        },
+        {
+          "message": "aye aye melakukan berburu Rusa",
+          "timestamp": 1747822017516
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747823924471
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747824999494
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825003682
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747825009789
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825021429
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747825028296
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825032487
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747825039843
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825044298
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747825048799
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825058772
+        },
+        {
+          "message": "aye aye meng-upgrade defense clan.",
+          "timestamp": 1747825070544
+        },
+        {
+          "message": "aye aye meng-upgrade attack clan.",
+          "timestamp": 1747825077120
+        },
+        {
+          "message": "aye aye mentransfer 1000000 🏦 Bank ke clan *pride of lions*",
+          "timestamp": 1747842069186
+        },
+        {
+          "message": "aye aye melakukan berburu Serigala",
+          "timestamp": 1747842434886
+        },
+        {
+          "message": "aye aye melakukan nambang di Hutan",
+          "timestamp": 1747842453680
+        },
+        {
+          "message": "aye aye menyelesaikan dungeon.",
+          "timestamp": 1747842467249
+        },
+        {
+          "message": "aye aye melakukan jelajah.",
+          "timestamp": 1747842476003
+        },
+        {
+          "message": "aye aye melakukan nebang.",
+          "timestamp": 1747842484953
+        },
+        {
+          "message": "aye aye mentransfer 100000000 🪵 Wood ke clan *pride of lions*",
+          "timestamp": 1747904817314
+        },
+        {
+          "message": "aye aye mentransfer 100000000 🪨 Iron ke clan *pride of lions*",
+          "timestamp": 1747904829482
+        },
+        {
+          "message": "aye aye mentransfer 100000000 🧵 String ke clan *pride of lions*",
+          "timestamp": 1747904845436
+        },
+        {
+          "message": "aye aye mentransfer 100000000 🪨 Rock ke clan *pride of lions*",
+          "timestamp": 1747904855397
+        },
+        {
+          "message": "aye aye mentransfer 100000000 ⚫ Coal ke clan *pride of lions*",
+          "timestamp": 1747904865944
+        },
+        {
+          "message": "aye aye mentransfer 100000000 💎 Diamond ke clan *pride of lions*",
+          "timestamp": 1747904967285
+        },
+        {
+          "message": "‎ melakukan nambang di Hutan",
+          "timestamp": 1748093275424
+        },
+        {
+          "message": "‎ melakukan berburu Serigala",
+          "timestamp": 1748093280861
+        },
+        {
+          "message": "‎ menyelesaikan dungeon.",
+          "timestamp": 1748093289111
+        },
+        {
+          "message": "‎ melakukan nebang.",
+          "timestamp": 1748093310741
+        },
+        {
+          "message": "‎ menyelesaikan dungeon.",
+          "timestamp": 1748097326294
+        },
+        {
+          "message": "‎ melakukan nambang di Hutan",
+          "timestamp": 1748097335930
+        },
+        {
+          "message": "‎ melakukan berburu Babi",
+          "timestamp": 1748097337148
+        },
+        {
+          "message": "‎ melakukan jelajah.",
+          "timestamp": 1748097358745
+        },
+        {
+          "message": "‎ melakukan nambang di Hutan",
+          "timestamp": 1748105384516
+        },
+        {
+          "message": "‎ melakukan berburu Serigala",
+          "timestamp": 1748105400567
+        },
+        {
+          "message": "‎ melakukan nebang.",
+          "timestamp": 1748105422216
+        },
+        {
+          "message": "‎ menyelesaikan dungeon.",
+          "timestamp": 1748105425389
+        }
+      ],
+      "settings": {
+        "approval": true
+      },
+      "bank": 444454308,
+      "profile": "https://files.catbox.moe/e5aluk.jpg",
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "season": 1,
+      "seasonStart": 1744243200000,
+      "isInWar": false,
+      "lastWar": 1748151763565,
+      "dungeonCooldown": {
+        "6285230765748@s.whatsapp.net": {
+          "lastCompleted": 1748105425388
+        }
+      },
+      "memberCooldowns": {
+        "6285230765748@s.whatsapp.net": 1748097358744
+      },
+      "memberCooldownsV2": {
+        "6285230765748@s.whatsapp.net": 1748105422215
+      },
+      "profileMessage": ".clan setprofile"
+    },
+    "uqcvpe": {
+      "id": "uqcvpe",
+      "name": "Suzuraniga",
+      "owner": "6281226473681@s.whatsapp.net",
+      "members": [
+        "6281226473681@s.whatsapp.net"
+      ],
+      "resources": {
+        "wood": 0,
+        "iron": 0,
+        "diamond": 0,
+        "rock": 0,
+        "coal": 0,
+        "string": 0,
+        "apple": 0,
+        "berry": 0,
+        "meat": 0,
+        "bone": 0,
+        "feather": 0,
+        "skin": 0,
+        "fang": 0,
+        "mango": 0,
+        "banana": 0,
+        "grape": 0
+      },
+      "artifacts": {
+        "grimoire": 0,
+        "scepter": 0,
+        "crown": 0,
+        "gemstone": 0,
+        "cloak": 0,
+        "spear": 0
+      },
+      "defenseLevel": 1,
+      "attackLevel": 1,
+      "exp": 0,
+      "level": 1,
+      "aegis": 0,
+      "basics": 25,
+      "activityLog": [
+        {
+          "message": "Clan \"Suzuraniga\" dibuat sama KareraNoTochi.",
+          "timestamp": 1747824960635
+        }
+      ],
+      "settings": {
+        "approval": false
+      },
+      "bank": 0,
+      "profile": null,
+      "officers": [],
+      "transferHistory": {},
+      "alliances": [],
+      "pendingAlliances": [],
+      "pendingMembers": [],
+      "isRaiding": false,
+      "raidMonster": null,
+      "raidPeriod": 0,
+      "raidAllies": [],
+      "lastRaid": 0,
+      "season": 1,
+      "seasonStart": 1744243200000,
+      "isInWar": false,
+      "lastWar": 1747825407867
     }
   },
   "members": {
@@ -2889,11 +3095,13 @@
     "6283131881340@s.whatsapp.net": "mxaxqw",
     "6287877612403@s.whatsapp.net": "mxaxqw",
     "6283120477263@s.whatsapp.net": "cufzwo",
-    "6285230765748@s.whatsapp.net": "qmegdz",
     "628876869529@s.whatsapp.net": "uuxvn4",
     "6285825430839@s.whatsapp.net": "75r7w3",
     "6289526534401@s.whatsapp.net": "05yj2p",
     "6285147777105@s.whatsapp.net": "zgvvgl",
-    "6281217369304@s.whatsapp.net": "zgvvgl"
+    "6281217369304@s.whatsapp.net": "zgvvgl",
+    "6285710081049@s.whatsapp.net": "eaakjw",
+    "6285230765748@s.whatsapp.net": "8gqs4m",
+    "6281226473681@s.whatsapp.net": "uqcvpe"
   }
 }
