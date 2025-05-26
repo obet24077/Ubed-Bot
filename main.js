@@ -1,10 +1,8 @@
 //Ubed Bot
 //custom pairing your code
 import './config.js'
-import 'dotenv/config'
  
 import path, { join } from 'path'
-import fetch from 'node-fetch'
 import { platform } from 'process'
 import { fileURLToPath, pathToFileURL } from 'url'
 import { createRequire } from 'module' // Bring in the ability to create the 'require' method
@@ -138,47 +136,7 @@ const connectionOptions = {
   }
 }
 
-const githubToken = process.env.GITHUB_TOKEN
-const keyLocal = global.ubedkey || ''
-const ownerNumber = global.owner?.[0]?.[0]?.replace(/[^0-9]/g, '') || ''
-const keyCheckURL = 'https://raw.githubusercontent.com/obet24077/Database.json/refs/heads/main/database.json'
-
-if (!githubToken) {
-  console.error('❌ GITHUB_TOKEN belum disetel di .env!')
-  process.exit(1)
-}
-
-try {
-  const res = await fetch(keyCheckURL, {
-    headers: {
-      Authorization: `token ${githubToken}`
-    }
-  })
-
-  if (!res.ok) {
-    console.error('❌ Gagal mengambil data key dari GitHub. Cek token atau repo privat.')
-    process.exit(1)
-  }
-
-  const data = await res.json()
-  const allowedUsers = data.allowedUsers || []
-
-  const isAllowed = allowedUsers.find(u => u.key === keyLocal && u.number === ownerNumber)
-
-  if (!isAllowed) {
-    console.error(`❌ Key atau Owner tidak valid.\nKey: '${keyLocal}'\nOwner: '${ownerNumber}'`)
-    process.exit(1)
-  }
-
-  console.log(`✅ Key dan Owner cocok. Akses diberikan untuk nomor ${ownerNumber}.`)
-
-} catch (e) {
-  console.error('❌ Terjadi kesalahan saat memverifikasi key:', e)
-  process.exit(1)
-}
-
-
-
+// Buat koneksi awal
 global.conn = makeWASocket(connectionOptions)
 conn.isInit = false
 
